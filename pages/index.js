@@ -15,8 +15,8 @@ function ProfileSidebar(propriedades) {
 export default function Home() {
   const usuarioAleatorio = 'kevinDRibeiro';
   const pessoasFavoritas = [
-    'juunegreiros',
-    'omariosouto',
+    'iClarkSi',
+    'MaiaVinicius',
     'peas',
     'rafaballerini',
     'marcobrunodev',
